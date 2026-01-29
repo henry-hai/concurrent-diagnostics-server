@@ -12,7 +12,7 @@ Detailed multi-threaded HTTP server implemented in Java for serving system diagn
 * **Language**: Java
 * **Protocols**: HTTP, TCP/IP: HTTP, TCP/IP
 
-# Orginial README from 244P 4.1
+## Execution
 * cd ex4.1
 * javac *.java
 * java WebServer
